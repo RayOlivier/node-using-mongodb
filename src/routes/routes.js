@@ -1,4 +1,4 @@
-const { addnewProduct, getProducts, getProductWithID, updateProduct } = require('../controllers/controllers');
+const { addnewProduct, getProducts, getProductWithID, updateProduct, deleteProduct } = require('../controllers/controllers');
 
 // const app = require('express');
 // const router = express.Router();
